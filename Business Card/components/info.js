@@ -1,5 +1,5 @@
 import React from "react"
-import ReactDOM from "react-dom"
+
 
 export default function Info() {
     return (
@@ -7,7 +7,7 @@ export default function Info() {
             <div className="details">
                 <h2>Matthew Parmer</h2>
                 <h4>Frontend Developer</h4>
-                <a className="portfolio" href="https://app.netlify.com/sites/mattportfolio23/overview">
+                <a className="portfolio" href="https://mattportfolio23.netlify.app/">
                 https://mattportfolio23.netlify.app
                 </a>
             </div>
